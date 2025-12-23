@@ -10,8 +10,13 @@
   },
   "dependencies": {
     "next": "16.0.7",
+<<<<<<< HEAD
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
+=======
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+>>>>>>> 19d7e95 (Add full src/app directory and project files)
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
