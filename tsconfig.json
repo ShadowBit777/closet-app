@@ -34,8 +34,4 @@
   "exclude": [
     "node_modules"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 19d7e95 (Add full src/app directory and project files)
